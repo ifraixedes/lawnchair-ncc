@@ -18,3 +18,6 @@ So far, I've only ported some adapters and no plugins. In the close future, only
 ## Acknowledges
 
 I want to say many thanks to Brian LeRoux and Lawnchair contributors as well, to start and release under a Open Source License the Lanwchair project.
+
+## LICENSE
+Just MIT, check LICENSE file.
